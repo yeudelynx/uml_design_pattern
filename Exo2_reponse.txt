@@ -6,4 +6,4 @@ Pas d'instanciation dynamique, trop de dépendances.
 
 2) Quels sont les problèmes engendrés par cette solution ?
 
-Implémenter une nouvelle logique sur une logique déjà existante.
+Ce n'est pas propre d'implémenter une nouvelle logique sur une logique déjà existante.
