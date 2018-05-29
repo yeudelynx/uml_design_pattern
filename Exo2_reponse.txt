@@ -1,0 +1,9 @@
+1) Quels sont les problèmes engendrés par cette solution ?
+
+Il y a une redondance des méthodes “affiche()”,
+Pas d'instanciation dynamique, trop de dépendances.
+
+
+2) Quels sont les problèmes engendrés par cette solution ?
+
+Implémenter une nouvelle logique sur une logique déjà existante.
